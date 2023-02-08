@@ -300,6 +300,10 @@ button {
   margin-bottom: 10rem;
 }
 
+.mb-10 {
+  margin-bottom: 10rem;
+}
+
 @media (min-width: 1217px) {
   .explore {
     margin-bottom: 10rem;

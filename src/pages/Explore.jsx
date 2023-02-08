@@ -10,7 +10,7 @@ function Explore() {
         <p className="pageHeader">Explore</p>
       </header>
 
-      <main>
+      <main className='mb-10'>
         <Slider />
 
         <p className="exploreCategoryHeading">Categories</p>
