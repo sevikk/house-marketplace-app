@@ -66,7 +66,7 @@ function Signup() {
         </header>
       </div>
 
-      <form onSubmit={onSubmit}>
+      <form onSubmit={onSubmit} className="form-container">
         <input
           type="text"
           className="nameInput"

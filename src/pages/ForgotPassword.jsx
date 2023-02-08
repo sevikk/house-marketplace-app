@@ -27,7 +27,7 @@ function ForgotPassword() {
         <p className="pageHeader">Forgot Password</p>
       </header>
       <main>
-        <form onSubmit={onSubmit}>
+        <form onSubmit={onSubmit} className="form-container">
           <input
             type="email"
             className="emailInput"
