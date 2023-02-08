@@ -224,7 +224,7 @@ button {
 
 .signInBar,
 .signUpBar {
-  margin: 3rem 1rem;
+  margin: 2rem 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
